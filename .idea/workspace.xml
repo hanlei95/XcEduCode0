@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5cf00979-7384-496a-8951-6bbf260b4821" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-framework-model/target/xc-framework-model.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xc-service-api/target/xc-service-api.jar" afterDir="false" />
-    </list>
+    <list default="true" id="5cf00979-7384-496a-8951-6bbf260b4821" name="Default Changelist" comment="第一次上传的学成在线项目" />
     <ignored path="$PROJECT_DIR$/xc-framework-common/target/" />
     <ignored path="$PROJECT_DIR$/xc-framework-model/target/" />
     <ignored path="$PROJECT_DIR$/xc-framework-parent/target/" />
@@ -87,6 +75,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,7 +112,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="XcEduCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="XcEduCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -191,7 +190,7 @@
       <workItem from="1585037791035" duration="665000" />
       <workItem from="1585207472154" duration="1226000" />
       <workItem from="1585272111060" duration="596000" />
-      <workItem from="1585277105713" duration="2990000" />
+      <workItem from="1585277105713" duration="3237000" />
     </task>
     <task id="LOCAL-00001" summary="第一次上传的学成在线项目">
       <created>1585278951714</created>
@@ -200,11 +199,18 @@
       <option name="project" value="LOCAL" />
       <updated>1585278951714</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次上传的学成在线项目">
+      <created>1585280173795</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585280173795</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19064000" />
+    <option name="totallyTimeSpent" value="19311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
